@@ -396,12 +396,12 @@
             <File>
               <FileName>delay.c</FileName>
               <FileType>1</FileType>
-              <FilePath>.\delay.c</FilePath>
+              <FilePath>.\User\delay.c</FilePath>
             </File>
             <File>
               <FileName>delay.h</FileName>
               <FileType>5</FileType>
-              <FilePath>.\delay.h</FilePath>
+              <FilePath>.\User\delay.h</FilePath>
             </File>
           </Files>
         </Group>
